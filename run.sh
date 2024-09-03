@@ -24,6 +24,4 @@ else
     echo "Port 443 is not in use."
 fi
 
-# Tự xóa file script sau khi chạy
-echo "Deleting script..."
-rm -- "$0"
+
